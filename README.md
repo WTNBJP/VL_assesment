@@ -1,0 +1,3 @@
+# VL_assesment
+VALORANT適正エージェントを名前から診断
+名前を入力してEnterまたは診断ボタンをクリック
